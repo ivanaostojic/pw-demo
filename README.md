@@ -1,0 +1,2 @@
+# test-exercise
+Automation tests
